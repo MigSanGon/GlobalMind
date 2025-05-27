@@ -2,6 +2,7 @@
 name = "globalmind"
 version = "0.1.0"
 description = ""
+package-mode = false
 authors = [
     {name = "Miguel de los Santos",email = "mdlsg@outlook.es"}
 ]
