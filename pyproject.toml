@@ -2,7 +2,6 @@
 name = "globalmind"
 version = "0.1.0"
 description = ""
-package-mode = false
 authors = [
     {name = "Miguel de los Santos",email = "mdlsg@outlook.es"}
 ]
@@ -16,7 +15,7 @@ dependencies = [
     "plotly (>=6.1.1,<7.0.0)",
     "torch (>=2.7.0,<3.0.0)"
 ]
-
+package-mode = false
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
